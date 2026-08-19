@@ -1,317 +1,138 @@
-[8/12/2026 8:00 PM] THEARITH MINGYANG: <!DOCTYPE html>
-<html>
-    <head>
-        <title>AFashion</title>
-         <link rel="icon" href="img/images.png">
-        <link rel="stylesheet"href=
-        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-        <link rel="ion" href=
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yVcQtRh3YgtfGwEw8Fa1-CkM0vQ_tPJoJXH5Iifd7Q&s=10">
-        <link rel="stylesheet" href="style/main.css">
-    </head>
-    <body>
-        <div class="header">
-            <div class="logo">
-                 AFashion
-            </div>
-            <div class="menu">
-                <uI>
-                     <li class="home">HOME</li>
-                    <li>WOMEN'S</li>
-                    <li>MEN'S</li>
-                    <li>SHOP</li>
-                    <li>PAGE</li>
-                    <li>BLOG</li>
-                    <li>CONTENT</li>
-                </uI>
-            </div>
-            <div class="log">
-                <span>Login</span>
-                 <span>Register</span>
-
-            </div>
-        </div>
-        <div class="body">
-            <div class="cover">
-                <img src="img/1.jpg">
-                <img src="img/2.jpg">
-            </div>
-           <div class="container">
-               <div class="panel_l">
-                  <ul>
-                    <li>NEW IN</li>
-                    <li>WOMEN'S
-                        <ul>
-                            <li>DRESS</li>
-                             <li>CLOTHES</li>
-                              <li>BAG</li>
-                               <li>SHOES</li>
-                        </ul>
-                    </li>
-                    <li>MAN'S
-                        <ul>
-                           
-                             <li>CLOTHES</li>
-                              <li>BAG</li>
-                               <li>SHOES</li>
-                        </ul>
-                    </li>
-                    <li>BOY'S
-                        <ul>
-                           
-                             <li>CLOTHES</li>
-                              <li>BAG</li>
-                               <li>SHOES</li>
-                        </ul>
-                    </li>
-                    <li>GIRL'S
-                        <ul>
-                            <li>DRESS</li>
-                             <li>CLOTHES</li>
-                              <li>BAG</li>
-                               <li>SHOES</li>
-                        </ul>
-                    </li>
-                    <li>PROMOTION</li>
-                    <li>ON SALE</li>
-                    
-                  </ul>
-               </div>
-                <div class="panel_M">
-                  <h3>HOME</h3>
-                  <div class="pro-listing">
-                    <div class="product">
-                        <img src="img/Product/1.jpg">
-                        <div class="pro_name">Trousers With Slits</div>
-                         <div class="pro_rating">
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star-half-stroke"></i>
-                         </div>
-                          <div class="pro_price">16.9$</div>
-                    </div>
-                    <div class="product">
-                        <img src="img/Product/2.jpg">
-                        <div class="pro_name">Trousers With Slits</div>
-                         <div class="pro_rating">
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star-half-stroke"></i>
-                         </div>
-                          <div class="pro_price">16.9$</div>
-                    </div>
-                    <div class="product">
-[8/12/2026 8:00 PM] THEARITH MINGYANG: <img src="img/Product/3.jpg">
-                        <div class="pro_name">Trousers With Slits</div>
-                         <div class="pro_rating">
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star-half-stroke"></i>
-                         </div>
-                          <div class="pro_price">16.9$</div>
-                    </div>
-                    <div class="product">
-                        <img src="img/Product/4.jpg">
-                        <div class="pro_name">Trousers With Slits</div>
-                         <div class="pro_rating">
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star-half-stroke"></i>
-                         </div>
-                          <div class="pro_price">16.9$</div>
-                    </div>
-                    <div class="product">
-                        <img src="img/Product/5.jpg">
-                        <div class="pro_name">Trousers With Slits</div>
-                         <div class="pro_rating">
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star-half-stroke"></i>
-                         </div>
-                          <div class="pro_price">16.9$</div>
-                    </div>
-                    <div class="product">
-                        <img src="img/Product/6.jpg">
-                        <div class="pro_name">Trousers With Slits</div>
-                         <div class="pro_rating">
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star-half-stroke"></i>
-                         </div>
-                          <div class="pro_price">16.9$</div>
-                    </div>
-                    <div class="product">
-                        <img src="img/Product/7.jpg">
-                        <div class="pro_name">Trousers With Slits</div>
-                         <div class="pro_rating">
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star-half-stroke"></i>
-                         </div>
-                          <div class="pro_price">16.9$</div>
-                    </div>
-                    <div class="product">
-                        <img src="img/Product/8.jpg">
-                        <div class="pro_name">Trousers With Slits</div>
-                         <div class="pro_rating">
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star-half-stroke"></i>
-                         </div>
-                          <div class="pro_price">16.9$</div>
-                    </div>
-                    <div class="product">
-                        <img src="img/Product/9.jpg">
-                        <div class="pro_name">Trousers With Slits</div>
-                         <div class="pro_rating">
-[8/12/2026 8:00 PM] THEARITH MINGYANG: <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star"></i>
-                            <i class="fa-solid fa-star-half-stroke"></i>
-                         </div>
-                          <div class="pro_price">16.9$</div>
-                    </div>
-                    
-
-                  </div>
-               </div>
-                <div class="panel_r">
-                c
-               </div>
-           </div>
-                       
-        
-        </div>
-        <div class="footer">
-
-        </div>
-    </body>
-
-</html>
-[8/12/2026 8:00 PM] THEARITH MINGYANG: @import url('https://fonts.googleapis.com/css2?family=Autour+One&family=Chango&family=Sekuya&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
 :root{
-    --col1: orange;
-    --col2: red;
-    --col3: white;
-    --col4: gray;
-    --col5: rgba(212, 155, 75, 0.5);
+  --col1:orange;
+  --col2:red;
+  --col3:white;
+  --col4:gray;
+  --col5:rgba(212,155,75,0.5);
 }
-body {
-    margin: 0;
+body{
+  margin:0;
 }
 *{
-    box-sizing: border-box;
+  box-sizing:border-box;
 }
-.header {
-    background-color: var(--col5);
-    display: flex;
-    justify-content: space-between;
-    padding: 20px;
-    align-items:center;
-    border-bottom:3px solid var(--col3);
-    box-shadow: 3px 3px 3px var(--col4);
-    position:sticky;
-    top:0
+.header{
+  background-color:var(--col5);
+  display:flex;
+  justify-content:space-between;
+  padding:20px;
+  align-items:center;
+  border-bottom:3px solid var(--col1);
+    box-shadow:3px 3px 3px var(--col4);
+  position:sticky;
+  top:0;
+  z-index:2;
 }
-.menu li {
-    list-style: none;
-    display: inline;
-    margin-right: 20px;
+.menu li{
+  list-style:none;
+  display:inline;
+  margin-right:20px;
+}  
+.menu li:hover ,.home{
+  color:var(--co12);
+  text-shadow:2px 2px 1px var(--col3);
+  border-bottom:3px solid var(--col2);
+  padding-bottom:5px;
+  box-shadow:0 2px 1px var(--col3);
+  cursor:pointer;
 }
-.menu li:hover , .home{
-    color:var(--col2);
-    text-shadow:2px 2px 1px var(--col3);
-    border-bottom: 3px solid var(col--2);
-    padding-bottom: 5px;
-    box-shadow:0 2px 1px var(--col3);
-}
-.body{height:1500px; background-color: var(--col14);}
+
 .logo{
-   font-family: "Sekuya", system-ui;
-    font-size:30px;
-    color:var(--col2);
-    text-shadow: 2px 2px 2px var(--col4);
+  font-family: "Caveat", system-ui;
+  font-size:30pt;
+  color:var(--col2);
+  text-shadow:2px 2px 1px var(--col3);
 }
 .cover{
-    display: flex;
-    justify-content: space-between;
+  display:flex;
+  justify-content:space-between;
 }
 .cover img{
-    width: 49%;
-    border: 10px solid var(--go3);
-    transition-duration: 1s;
+  width:49%;
+  border:10px solid var(--col3);
+  transition-duration:1s;
 }
 .cover img:hover{
-    transform: scale(1.05);
-   transition: 1s;
+  transform:scale(1.05);
 }
 .container{
-    display: grid;
-    grid-template-columns: 1fr 3fr 1fr;
-    gap: 20px;
+  display:grid;
+  grid-template-columns:1fr 3fr 1fr;
+  gap:20px;
 }
 
 
 .pro-listing{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid: 20px;
+  display:grid;
+    grid-template-columns:1fr 1fr 1fr;
+  gap:20px;
 }
 .product img{
-    width: 100%;
-    border: 4px solid var(--col1);
+  width:100%;
+  border:4px solid var(--col1);
 }
 .product{
-    text-align: center;
-    font-size: 16pt;
-    box-shadow: 3px 3px 5px var(--col4);
-    transition-duration: 1s;
-   
+  text-align:center;
+  font-size:16pt;
+  box-shadow:3px 3px 5px var(--col4);
+  transition-duration:1s;
+  
 }
 .pro_name{
-    color:var(--col5);
-     font-weight:1000;
-    
+  color:var(--col5);
+  font-weight:800;
 }
 .pro_rating{
-    color:var(--col1);
+  color:var(--col1);
 }
 .pro_price{
-    color: var(--col2); 
+  color:var(--col2);
 }
 .product:hover{
-    transform: scale(1.1);
-    box-shadow: 3px 3px var(--col4);
-    z-index: 2;
-    background-color: white;
+  transform:scale(1.1);
+  box-shadow:3px 3px var(--col5);
+  z-index:2;
+  background-color:white;
 }
 .panel_l ul li{
-    list-style: none;
-    padding-bottom: 10px ;
-    color: var(--col1);
+  list-style:none;
+  padding-bottom:10px;
+  color:var(--col1);
 }
 .panel_l>ul>li>ul>li:hover{
-    color: green;
-    transform: scale(1.1);
-    transition-duration: 1s;
-}   
+  color:purple;
+  transform:scale(1.1);
+  transition-duration:1s;
+}
 .panel_l>ul>li{
-    border-bottom: 5px solid var(--col2);
+  border-bottom:5px solid var(--col2);
+}
+.panel_r img{
+  width:100%;
+  border:4px solid var(--col1);
+}
+.panel_r .title{
+  text-align:center;
+  color:var(--col3);
+  background-color:var(--col1);
+  padding:10px;
+  font-size:13pt;
+  font-weight:bold;
+}
+.media{
+  display:flex;
+  gap:30px;
+  padding-left:100px;
+  background-image:linear-gradient(var(--col1)50%,var(--col3),var(--col5));
+  /*background-image:radial-gradient(circle,var(--col1),var(--col3),var(--col5));*/
+}
+.copy{
+  text-align:center;
+  background-color:var(--col1);
+  color:var(--col3);
+  font-size:18pt;
+  font-weight:bold;
+  padding:15px;
+  text-shadow:2px 2px 2px var(--col4);
 }
